@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jJump:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jJump_jar</output-path>
+    <root id="archive" name="jJump.jar">
+      <element id="module-output" name="jJump" />
+    </root>
+  </artifact>
+</component>
